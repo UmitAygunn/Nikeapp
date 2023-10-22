@@ -4,6 +4,8 @@ This project is a Nike app clone created using HTML and CSS. It features a varie
 
 # Demo
 
+![Nike App](https://github.com/UmitAygunn/Nikeapp/assets/140657845/b9884bfb-5d5e-4b09-affe-ed3bd29aff70)
+
 Live Demo - Explore the live demo of the Nike app clone to browse a collection of shoe models and more.
 1) https://6534f4328b4dfd509e51f578--melodic-florentine-2cfc72.netlify.app/
 
